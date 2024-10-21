@@ -28,3 +28,4 @@ C:\Users\Mobilemed\Desktop\projeto\ProjetoDraMariana\ProjetoDraMariana\obj\Debug
 C:\Users\Mobilemed\Desktop\projeto\ProjetoDraMariana\ProjetoDraMariana\obj\Debug\net8.0\ProjetoDraMariana.pdb
 C:\Users\Mobilemed\Desktop\projeto\ProjetoDraMariana\ProjetoDraMariana\obj\Debug\net8.0\ProjetoDraMariana.genruntimeconfig.cache
 C:\Users\Mobilemed\Desktop\projeto\ProjetoDraMariana\ProjetoDraMariana\obj\Debug\net8.0\ref\ProjetoDraMariana.dll
+C:\Users\Mobilemed\Desktop\projeto\ProjetoDraMariana\ProjetoDraMariana\obj\Debug\net8.0\ProjetoDraMariana.sourcelink.json

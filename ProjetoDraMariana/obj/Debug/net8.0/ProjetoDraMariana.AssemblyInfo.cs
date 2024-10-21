@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ProjetoDraMariana")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3d7c932470051fdf8054f895761e6233ce55fee3")]
 [assembly: System.Reflection.AssemblyProductAttribute("ProjetoDraMariana")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ProjetoDraMariana")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

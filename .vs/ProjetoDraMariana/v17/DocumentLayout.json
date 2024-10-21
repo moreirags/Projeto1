@@ -3,24 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Mobilemed\\Desktop\\projeto\\ProjetoDraMariana\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Mobilemed\\Desktop\\projeto\\ProjetoDraMariana\\ProjetoDraMariana\\Views\\Shared\\_Layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProjetoDraMariana\\Views\\Shared\\_Layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{570E71DC-237E-4398-AD32-2CCFE6379F66}|ProjetoDraMariana\\ProjetoDraMariana.csproj|c:\\users\\mobilemed\\desktop\\projeto\\projetodramariana\\projetodramariana\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{570E71DC-237E-4398-AD32-2CCFE6379F66}|ProjetoDraMariana\\ProjetoDraMariana.csproj|solutionrelative:projetodramariana\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Mobilemed\\Desktop\\projeto\\ProjetoDraMariana\\ProjetoDraMariana\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProjetoDraMariana\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+      "AbsoluteMoniker": "D:0:0:{570E71DC-237E-4398-AD32-2CCFE6379F66}|ProjetoDraMariana\\ProjetoDraMariana.csproj|c:\\users\\mobilemed\\desktop\\projeto\\projetodramariana\\projetodramariana\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{570E71DC-237E-4398-AD32-2CCFE6379F66}|ProjetoDraMariana\\ProjetoDraMariana.csproj|solutionrelative:projetodramariana\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Mobilemed\\Desktop\\projeto\\ProjetoDraMariana\\ProjetoDraMariana\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProjetoDraMariana\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{570E71DC-237E-4398-AD32-2CCFE6379F66}|ProjetoDraMariana\\ProjetoDraMariana.csproj|c:\\users\\mobilemed\\desktop\\projeto\\projetodramariana\\projetodramariana\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{570E71DC-237E-4398-AD32-2CCFE6379F66}|ProjetoDraMariana\\ProjetoDraMariana.csproj|solutionrelative:projetodramariana\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Mobilemed\\Desktop\\projeto\\ProjetoDraMariana\\ProjetoDraMariana\\Controllers\\HomeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProjetoDraMariana\\Controllers\\HomeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Mobilemed\\Desktop\\projeto\\ProjetoDraMariana\\ProjetoDraMariana\\Views\\Home\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProjetoDraMariana\\Views\\Home\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{570E71DC-237E-4398-AD32-2CCFE6379F66}|ProjetoDraMariana\\ProjetoDraMariana.csproj|c:\\users\\mobilemed\\desktop\\projeto\\projetodramariana\\projetodramariana\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{570E71DC-237E-4398-AD32-2CCFE6379F66}|ProjetoDraMariana\\ProjetoDraMariana.csproj|solutionrelative:projetodramariana\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -39,6 +35,10 @@
             {
               "$type": "Bookmark",
               "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
               "$type": "Document",
@@ -60,7 +60,7 @@
               "RelativeDocumentMoniker": "ProjetoDraMariana\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\Mobilemed\\Desktop\\projeto\\ProjetoDraMariana\\ProjetoDraMariana\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "ProjetoDraMariana\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-10-19T17:28:48.571Z",
               "EditorCaption": ""
@@ -73,25 +73,13 @@
               "RelativeDocumentMoniker": "ProjetoDraMariana\\wwwroot\\css\\site.css",
               "ToolTip": "C:\\Users\\Mobilemed\\Desktop\\projeto\\ProjetoDraMariana\\ProjetoDraMariana\\wwwroot\\css\\site.css",
               "RelativeToolTip": "ProjetoDraMariana\\wwwroot\\css\\site.css",
-              "ViewState": "AgIAAGcAAAAAAAAAAAAIwHcAAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIMAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2024-10-19T17:46:10.271Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\Mobilemed\\Desktop\\projeto\\ProjetoDraMariana\\ProjetoDraMariana\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "ProjetoDraMariana\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\Mobilemed\\Desktop\\projeto\\ProjetoDraMariana\\ProjetoDraMariana\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "ProjetoDraMariana\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-19T17:27:01.489Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Mobilemed\\Desktop\\projeto\\ProjetoDraMariana\\ProjetoDraMariana\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "ProjetoDraMariana\\Views\\Home\\Index.cshtml",
